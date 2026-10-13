@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - TERARITE is a game studio founded by FalzzieStars
-- - The website currentky hosts our latest game, Detective Monitor, though this is just a placeholder for now.
+- The website currently hosts our latest game, Detective Monitor, though this is just a placeholder for now.
 <!--
 **TERARITE/TERARITE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
